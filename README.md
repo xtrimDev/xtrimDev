@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://xtrimdev.github.io/](https://xtrimdev.github.io/)
 
-- 💬 Ask me about **MERN, Python**
+- 💬 Ask me about **Web Development and Bot Development**
 
 - 📫 How to reach me **xtrim.dev@gmail.com**
 
