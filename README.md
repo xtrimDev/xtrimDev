@@ -1,6 +1,3 @@
-<a href="https://xtrimdev.github.io/">
-  <img src="https://images.ctfassets.net/aq13lwl6616q/7cS8gBoWulxkWNWEm0FspJ/c7eb42dd82e27279307f8b9fc9b136fa/nodejs_cover_photo_smaller_size.png?w=500&fm=webp" style="width:100%;" alt="MasterHead">
-</a>
 
 <h1 align="center">Hi 👋, I'm Sameer singh bhandari</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
