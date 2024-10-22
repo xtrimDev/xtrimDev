@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sameer singh bhandari</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-[![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)](https://xtrimdev.github.io/)
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <a href="https://twitter.com/xtrim_dev" target="blank"><img src="https://img.shields.io/twitter/follow/xtrim_dev?logo=twitter&style=for-the-badge" alt="xtrim_dev" /></a> </p>
 
