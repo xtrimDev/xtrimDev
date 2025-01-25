@@ -7,11 +7,11 @@
 
 - 🔭 I’m a student of **Computer Science and engineer**
   
-- 🌱 I’m currently learning **Blockchain Development**
+- 🌱 I’m currently learning **Android Development**
   
-- 👨‍💻 All of my projects are available at [https://xtrimdev.github.io/](https://xtrimdev.github.io/)
+- 👨‍💻 All of my projects are available at <b>[https://xtrimdev.github.io/](https://xtrimdev.github.io/)</b>
   
-- 💬 Ask me about **Web Development, Bot Development**
+- 💬 Ask me about **Web Development, Android Development, Machine learning**
   
 - 📫 How to reach me **xtrim.dev@gmail.com**
 
