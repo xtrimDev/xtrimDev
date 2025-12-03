@@ -46,10 +46,5 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Solidity.svg" alt="solidity" width="40" height="40"/> </a> 
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SciKitLearn-Light.svg" alt="scikit-learn" width="40" height="40"/> </a> 
-</p>
-
-<p style="text-align: center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=xtrimdev&show_icons=true&theme=light&cache_seconds=1800&locale=en&layout=compact" alt="xtrimdev" />
-  <img src="https://github-readme-stats.vercel.app/api?username=xtrimdev&show_icons=true&theme=light&locale=en" alt="xtrimdev" />
-</p>
+</p
 
