@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="290" src="https://i.imgflip.com/9uou0b.png"  />
+<img align="right" height="240" src="https://i.imgflip.com/9uou0b.png"  />
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<h5 align="left">🔭 I’m a student of Computer Science and Engineering<br>     <br>👨‍💻 All of my publically avalible projects are available at <a href="https://xtrimdev.github.io">https://xtrimdev.github.io</a><br>      <br>💬 Ask me about Web Development, Machine learning, Cyber Security<br>  <br>📫 How to reach me <a href="mailto:xtrim.dev@gmail.com">xtrim.dev@gmail.com</a></h5>
+<h4 align="left">🔭 I’m a student of Computer Science and Engineering<br>     <br>👨‍💻 All of my publically avalible projects are available at <a href="https://xtrimdev.github.io">https://xtrimdev.github.io</a><br>      <br>💬 Ask me about Web Development, Machine learning, Cyber Security<br>  <br>📫 How to reach me <a href="mailto:xtrim.dev@gmail.com">xtrim.dev@gmail.com</a></h5>
 
 ###
 
