@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="240" src="https://i.imgflip.com/9uou0b.png"  />
+<img align="right" height="200" src="https://i.imgflip.com/9uou0b.png"  />
 
 ###
 
